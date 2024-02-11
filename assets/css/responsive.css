@@ -426,6 +426,11 @@
 	.blog-area {
 		text-align: center;
 	}
+	@media(max-width:991px){
+		.widget-link {
+			align-items: flex-start !important;
+		}
+	}
 	.widget-link {
 		margin: 50px 0;
 		overflow: hidden;

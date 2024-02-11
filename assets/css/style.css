@@ -211,6 +211,7 @@ textarea:focus,
 
 .sticky #mobile-menu .slicknav_btn {
   padding: 10px 20px;
+  bottom: 70px !important;
 }
 
 #mobile-menu .slicknav_btn {
@@ -218,7 +219,7 @@ textarea:focus,
   border-radius: 2px;
   display: block;
   padding: 0px 20px;
-  bottom: 60px;
+  bottom: 65px;
 }
 
 #mobile-menu .slicknav_btn span {
@@ -535,7 +536,7 @@ input[type="submit"] {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #271F62;
+  background: #E79259;
   border-radius: 10px;
 }
 
